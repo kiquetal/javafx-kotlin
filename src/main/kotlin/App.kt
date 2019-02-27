@@ -1,18 +1,17 @@
 import com.jfoenix.controls.JFXDecorator
-import io.datafx.controller.context.ViewContext
 import io.datafx.controller.flow.Flow
 import io.datafx.controller.flow.container.DefaultFlowContainer
 import io.datafx.controller.flow.context.ViewFlowContext
 import javafx.application.Application
 import javafx.scene.Scene
-import javafx.scene.layout.Pane
 import javafx.stage.Stage
 import io.datafx.controller.flow.context.FXMLViewFlowContext
-import javax.swing.text.View
-import java.util.Collections.addAll
-import javafx.collections.ObservableList
 
+/*
+    Only one application per javafx project
+    @author kiquetal@gmail.com 
 
+ */
 
 
 class App: Application()
