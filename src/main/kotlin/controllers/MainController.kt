@@ -4,7 +4,11 @@ import javax.annotation.PostConstruct
 import io.datafx.controller.flow.context.FXMLViewFlowContext
 import io.datafx.controller.ViewController
 
-@ViewController(value = "fxml/Main.fxml", title = "Orientador vocacional")
+/*
+@author: kiquetal@gmail.com
+2019-02-26T23:54:34.651Z
+ */
+@ViewController(value = "fxml/Main.fxml",title = "Aprendiendo jfoenix with kotlin")
 open class MainController {
 
     @FXMLViewFlowContext

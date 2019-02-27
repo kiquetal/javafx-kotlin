@@ -9,7 +9,7 @@ import io.datafx.controller.flow.context.FXMLViewFlowContext
 
 /*
     Only one application per javafx project
-    @author kiquetal@gmail.com 
+    @author kiquetal@gmail.com
 
  */
 
@@ -33,14 +33,13 @@ class App: Application()
         decorator.isCustomMaximize=true
 
         val scene=Scene(decorator,400.0,400.0)
-        primaryStage?.title="Probando el controller"
 
         val stylesheets = scene.stylesheets
         stylesheets.addAll(
             App::class.java!!.getResource( "./css/jfoenix-components.css").toExternalForm(),
             App::class.java!!.getResource("./css/jfoenix-main-demo.css").toExternalForm()
         )
-
+        primaryStage?.title="Aprendiendo kotlin con jfoenix"
         primaryStage?.scene=scene
         primaryStage?.show()
     }

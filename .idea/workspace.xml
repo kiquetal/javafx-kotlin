@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="411cfdad-b363-488f-a417-9e7f5bf26183" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/classes/App$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/App$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/css/jfoenix-components.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/css/jfoenix-components.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/controllers/MainController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/controllers/MainController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/jfoenix-components.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/jfoenix-components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/jfoenix-main-demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/jfoenix-main-demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -30,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/App.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="615">
+              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
               <folding>
                 <element signature="e#0#350#0" expanded="true" />
               </folding>
@@ -74,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainController.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainController.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/controllers/MainController.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="e#1#199#0" expanded="true" />
               </folding>
@@ -90,8 +97,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="92" selection-start-line="14" selection-start-column="92" selection-end-line="14" selection-end-column="92" />
+            <state relative-caret-position="225">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -99,8 +106,8 @@
       <file leaf-file-name="jfoenix-main-demo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/css/jfoenix-main-demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="1061" column="1" selection-start-line="1061" selection-start-column="1" selection-end-line="1061" selection-end-column="1" />
+            <state relative-caret-position="249">
+              <caret line="404" column="30" lean-forward="true" selection-start-line="404" selection-start-column="30" selection-end-line="404" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -108,8 +115,8 @@
       <file leaf-file-name="jfoenix-components.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/css/jfoenix-components.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="114" column="17" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+            <state relative-caret-position="206">
+              <caret line="115" selection-start-line="115" selection-end-line="115" />
             </state>
           </provider>
         </entry>
@@ -128,6 +135,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>button</find>
+      <find>prompt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -498,12 +506,12 @@
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/Main.fxml" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/controllers/MainController.kt" />
         <option value="$PROJECT_DIR$/out/production/classes/fxml/Main.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/css/jfoenix-main-demo.css" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" />
         <option value="$PROJECT_DIR$/src/main/resources/css/jfoenix-components.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" />
         <option value="$PROJECT_DIR$/src/main/kotlin/App.kt" />
+        <option value="$PROJECT_DIR$/src/main/resources/css/jfoenix-main-demo.css" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/controllers/MainController.kt" />
       </list>
     </option>
   </component>
@@ -688,12 +696,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551211852334</updated>
-      <workItem from="1551211856221" duration="5856000" />
+      <workItem from="1551211856221" duration="7704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5856000" />
+    <option name="totallyTimeSpent" value="7704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="268" y="22" width="1380" height="998" extended-state="0" />
@@ -715,13 +723,13 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39952436" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" />
       <window_info anchor="bottom" id="Messages" weight="0.32936978" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33055887" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33055887" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962519" />
@@ -750,17 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.datafx/flow/8.0.1/9ac732cd2049451f3fd37e3d32ffe9e039ca3e27/flow-8.0.1-sources.jar!/io/datafx/controller/flow/Flow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="320" column="20" selection-start-line="320" selection-start-column="20" selection-end-line="320" selection-end-column="20" />
-          <folding>
-            <element signature="e#13688#13689#0" expanded="true" />
-            <element signature="e#13735#13736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jfoenix/jfoenix/8.0.8/a54e787bb1e4b96f85a9be7a9ea444550e475ec8/jfoenix-8.0.8-sources.jar!/com/jfoenix/controls/JFXDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -776,44 +773,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/controllers/MainController.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/jfoenix-components.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding>
-            <element signature="e#1#199#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="206">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/css/jfoenix-main-demo.css">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.datafx/flow/8.0.1/9ac732cd2049451f3fd37e3d32ffe9e039ca3e27/flow-8.0.1-sources.jar!/io/datafx/controller/flow/Flow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="1061" column="1" selection-start-line="1061" selection-start-column="1" selection-end-line="1061" selection-end-column="1" />
+        <state relative-caret-position="178">
+          <caret line="320" column="20" selection-start-line="320" selection-start-column="20" selection-end-line="320" selection-end-column="20" />
+          <folding>
+            <element signature="e#13688#13689#0" expanded="true" />
+            <element signature="e#13735#13736#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="92" selection-start-line="14" selection-start-column="92" selection-end-line="14" selection-end-column="92" />
+        <state relative-caret-position="225">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/css/jfoenix-components.css">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/jfoenix-main-demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="114" column="17" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+        <state relative-caret-position="249">
+          <caret line="404" column="30" lean-forward="true" selection-start-line="404" selection-start-column="30" selection-end-line="404" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/App.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="615">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
           <folding>
             <element signature="e#0#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/controllers/MainController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#1#199#0" expanded="true" />
           </folding>
         </state>
       </provider>
